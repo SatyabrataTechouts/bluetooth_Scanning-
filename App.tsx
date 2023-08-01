@@ -1,10 +1,12 @@
-import React from 'react'
-import BluetoothComponent from './src/componetes/bluetoothConnection'
+import BluetoothComp from "./src/ble"
+
+
 
 
 const App = () => {
   return (
-<BluetoothComponent/>
+    <BluetoothComp />
+
   )
 }
 

@@ -12,6 +12,7 @@
   "dependencies": {
     "react": "18.2.0",
     "react-native": "0.72.3",
+    "react-native-ble-manager": "^10.1.2",
     "react-native-ble-plx": "^2.0.3",
     "react-native-quick-base64": "^2.0.7"
   },
